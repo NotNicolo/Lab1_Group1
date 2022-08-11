@@ -1,2 +1,17 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+import java.util.package
+
+// problem 1
+main SumOfIntegers{
+  public static void main(String [args]){
+
+  int sum = 0;
+  Iterator iter = intergers.getIterator();
+  while (iter.hasNext()){
+   object obj = iter.next();
+   int x = (int)obj;
+   sum = sum + x.intvalue();
+  }
+ }
+}
